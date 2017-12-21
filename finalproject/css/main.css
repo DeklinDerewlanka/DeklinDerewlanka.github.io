@@ -1,6 +1,26 @@
-body {
+.background{
+	background-image: url("background.jpg");
+	height: 950px;
+	width: 1895px;
 }
 
-.background {
-  width: "8%";
+
+.banner p{
+	text-align: center;
+	font-size: 100px;
+	background-color: black;
+	color: red;
+	margin-top: 0;
+	padding-top: 0;
+	border: black;
+}
+
+.mario {
+	margin-left: 300px;
+	margin-top: 200px;
+	display: inline;
+}
+
+.zelda {
+	text-align: center;
 }
