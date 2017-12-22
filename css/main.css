@@ -1,0 +1,39 @@
+.background{
+	background-image: url("background.jpg");
+	height: 975px;
+	width: 1895px;
+}
+
+.backgroundB{
+	background-image: url("mariobackground.jpg");
+	height: 975px;
+	width: 1895px;
+}
+
+
+.banner p{
+	text-align: center;
+	font-size: 100px;
+	background-color: black;
+	color: white;
+	margin-top: 0;
+	padding-top: 0;
+	border: black;
+}
+
+.mario {
+	margin-left: 300px;
+	margin-top: 200px;
+	display: inline;
+}
+
+.zelda {
+	text-align:center;
+}
+
+.review1 h1{
+	background-color:white;
+	color:red;
+	display: inline;
+	margin-left:200px;
+}
