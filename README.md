@@ -1,2 +1,0 @@
-# DeklinDerewlanka.github.io
-ahhhhhhhhhhhhhhhhhhh
