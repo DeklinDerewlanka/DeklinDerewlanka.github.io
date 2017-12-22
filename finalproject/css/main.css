@@ -1,6 +1,12 @@
 .background{
 	background-image: url("background.jpg");
-	height: 950px;
+	height: 975px;
+	width: 1895px;
+}
+
+.backgroundB{
+	background-image: url("mariobackground.jpg");
+	height: 975px;
 	width: 1895px;
 }
 
@@ -22,5 +28,10 @@
 }
 
 .zelda {
-	text-align: center;
+	text-align:center;
+}
+
+.review1 h1{
+	background-color:black;
+	color:red;
 }
